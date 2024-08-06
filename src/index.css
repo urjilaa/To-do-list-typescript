@@ -1,0 +1,29 @@
+/* index.css */
+.header {
+  text-align: center;
+  margin: 20px;
+  color: black;
+}
+
+.add-button {
+  padding: 5px 10px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #28a745;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.edit-button {
+  background-color: #ffc107;
+  color: #000;
+  height: fit-content;
+  width: auto;
+
+}
+
+.delete-button {
+  background-color: red;
+  color: black; /* Changed text color for better contrast */
+}
