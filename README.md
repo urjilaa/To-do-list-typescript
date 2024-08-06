@@ -8,21 +8,20 @@ Delete Task: Users can delete a task from the list.
 
 # Usage 
 # What it looks like
-![Screenshot 2024-08-05 175156](https://github.com/user-attachments/assets/ae79fde6-f252-4917-91e4-7b624c89ab34)
+![Screenshot 2024-08-05 175156](https://github.com/user-attachments/assets/583d40e4-bbc2-4d11-a0f3-ff8466b348c1)
 # Add a Task:
 Enter a task in the input field.
 Click the "Add" button to add the task to the list.
-![Screenshot 2024-08-05 175314](https://github.com/user-attachments/assets/3dcd1a66-29c5-4e41-9cb0-0bebb9bb32b6)
+![Screenshot 2024-08-05 175314](https://github.com/user-attachments/assets/d0573757-3cd8-46df-87eb-8185c89eb574)
 # Edit a Task:
 Click the "Edit" button next to a task.
 Enter the new text in the prompt dialog and click "OK".
 (editing Do todays tasks)
-![Screenshot 2024-08-05 175418](https://github.com/user-attachments/assets/d8866d32-651a-43c1-9542-bc9c0db37ab5)
-![Screenshot 2024-08-05 175514](https://github.com/user-attachments/assets/10bb05e1-65f0-46f2-afb0-837b7cf87a04)
+![Screenshot 2024-08-05 175418](https://github.com/user-attachments/assets/4fc6cdbb-a173-4c1c-af9f-168b741cdf6f)
+![Screenshot 2024-08-05 175514](https://github.com/user-attachments/assets/66c871c9-92d3-4c43-bff8-63465f717c09)
 # Delete a Task:
 Click the "Delete" button next to a task to remove it from the list.
-(after deleting Do todays tasks in the morning)
-![Screenshot 2024-08-05 175547](https://github.com/user-attachments/assets/c82028a5-a810-404e-9b15-ddffb62c4adb)
+(after deleting Do todays tasks in the morning)![Screenshot 2024-08-05 175547](https://github.com/user-attachments/assets/69d06153-21c7-464e-b7ec-7c87c95332aa)
 
 # Prerequisites
 To run this application, you need a modern web browser that supports Typescript.
